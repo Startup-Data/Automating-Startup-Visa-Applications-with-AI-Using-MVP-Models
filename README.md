@@ -7,15 +7,6 @@ https://www.perplexity.ai/search/see-this-post-https-rentry-co-1t3xeXm0QPOjlUE.5
 ### Automating Startup Visa Applications with AI Using MVP Models  
 
 **Overview**  
-![enter image description here](https://i.sstatic.net/4aeZOwDL.jpg)
-
-
-
-https://www.perplexity.ai/search/see-this-post-https-rentry-co-1t3xeXm0QPOjlUE.5SdNIA
-
-### Automating Startup Visa Applications with AI Using MVP Models  
-
-**Overview**  
 This project introduces an **AI-powered solution** to streamline the startup visa application process. By leveraging **Minimum Viable Product (MVP) models**, such as the Hugging Face tool ([link](https://huggingface.co/spaces/SoDa12321/Bussiness-plan-17-Question-Answerer-2-test)) and a Telegram bot (@Ai4Bussiness_plan_bot), [Cofunder.ir](https://cofunder.ir) provides entrepreneurs with an efficient, end-to-end service for generating business plans, answering critical questions, and automatically filling startup visa forms.
 
 ---
