@@ -7,6 +7,15 @@ https://www.perplexity.ai/search/see-this-post-https-rentry-co-1t3xeXm0QPOjlUE.5
 ### Automating Startup Visa Applications with AI Using MVP Models  
 
 **Overview**  
+![enter image description here](https://i.sstatic.net/4aeZOwDL.jpg)
+
+
+
+https://www.perplexity.ai/search/see-this-post-https-rentry-co-1t3xeXm0QPOjlUE.5SdNIA
+
+### Automating Startup Visa Applications with AI Using MVP Models  
+
+**Overview**  
 This project introduces an **AI-powered solution** to streamline the startup visa application process. By leveraging **Minimum Viable Product (MVP) models**, such as the Hugging Face tool ([link](https://huggingface.co/spaces/SoDa12321/Bussiness-plan-17-Question-Answerer-2-test)) and a Telegram bot (@Ai4Bussiness_plan_bot), [Cofunder.ir](https://cofunder.ir) provides entrepreneurs with an efficient, end-to-end service for generating business plans, answering critical questions, and automatically filling startup visa forms.
 
 ---
@@ -107,11 +116,17 @@ https://docs.google.com/document/d/138R8x840KVwdNMUvh2kG5pijQZZ7oZ9A/edit?usp=dr
 
 https://docs.google.com/document/d/11uxFBlFGoXGZkODrAud6HUScEEYk5Tmk/edit?usp=drivesdk&ouid=109257567653816211530&rtpof=true&sd=true
 
+،#And the finland first 17 question form which has ben filled based of the below website and uploading the bussiness plan for it :
+
+![enter image description here](https://i.sstatic.net/Jw1tI2C9.jpg) 
+
+https://huggingface.co/spaces/sosa123454321/Bussiness-plan-17-Question-Answerer-2
+
+#And the files which made is 👇:
+
+![enter image description here](https://i.sstatic.net/jtxnfyxF.jpg)
 
  
+https://docs.google.com/document/d/1O91N7QYWJo9VvcF5Z_Rpkv-roaBd7xEv/edit?usp=drivesdk&ouid=109257567653816211530&rtpof=true&sd=true
 
-
- 
-
-
-https://rentry.co/giz5bawt
+https://rentry.co/4xs9sedt
